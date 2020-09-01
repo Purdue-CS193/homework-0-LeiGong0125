@@ -20,7 +20,9 @@ My major is Computer Science.
 
 - Bulleted
 - List
-  
+  - I like this class will teach us how to use github.
+  - Its instrcution is very clear.
+  - It seems like will be easy-A class.
 
 1. Numbered
 2. List
