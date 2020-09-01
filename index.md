@@ -12,8 +12,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+My name is Lei Gong.
 ## Header 2
+I come from China
 ### Header 3
+My major is Computer Science.
 
 - Bulleted
 - List
